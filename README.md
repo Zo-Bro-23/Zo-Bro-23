@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zo-Bro-23&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="Zo-Bro-23's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zo-Bro-23&theme=radical&layout=compact&hide_border=true" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zo-Bro-23&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" alt="Zo-Bro-23's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zo-Bro-23&theme=radical&layout=compact&hide_border=true" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/repo/?username=Zo-Bro-23&theme=radical&layout=compact&hide_border=true" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zo-Bro-23&theme=radical&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
