@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ZoBro23&layout=compact&hide_border=true&theme=bear" /></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ZoBro23&layout=compact&hide_border=true&theme=nord" /></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zo-Bro-23&theme=onedark)](https://git.io/streak-stats)
