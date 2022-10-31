@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20and%20app%20developer;Pianist;Author;Euro%20Truck%2FMicrosoft%20Flight%20Simulator%20Fanboy;3D%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20and%20app%20developer;Pianist;Author;Euro%20Truck%2FMicrosoft%20Flight%20Simulator%20Fanboy;3D%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <!-- Social icons section -->
