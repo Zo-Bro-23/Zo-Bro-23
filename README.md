@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-|  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zo-Bro-23&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="Zo-Bro-23's github stats" /></a>  |  <a href="#"><img align="center" src="https://streak-stats.demolab.com?user=Zo-Bro-23&theme=onedark" /></a>  |
+|    |  <a href="#"><img align="center" src="https://streak-stats.demolab.com?user=Zo-Bro-23&theme=onedark" /></a>  |
 | ---- | ---- |
 
 <br>
 
-|  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ZoBro23&layout=compact&hide_border=true&theme=tokyonight" /></a>  |  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zo-Bro-23&layout=compact&hide_border=true&theme=tokyonight" /></a>  |
+|    |    |
 | ---- | ---- |
 
 <h3 align="center">
@@ -78,24 +78,24 @@ Here are some ideas to get you started:
   <a href="https://github.com/Zo-Bro-23?tab=repositories&type=fork"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
+## 📊 Github stats
+
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zo-Bro-23&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="Zo-Bro-23's github stats" /></a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=Zo-Bro-23&theme=onedark&hide_border=true"/>
   </a>
 </p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-    
-## 📊 Github stats
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ### 💻 GitHub Profile Stats
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Zo-Bro-23's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Zo-Bro-23&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zo-Bro-23&layout=compact&hide_border=true&theme=tokyonight" /></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ZoBro23&layout=compact&hide_border=true&theme=tokyonight" /></a>
 </p>
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
