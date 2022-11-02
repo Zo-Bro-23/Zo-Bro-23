@@ -30,6 +30,29 @@
     <img alt="views" title="GitHub profile views" src="https://view-count-badge.zohan.tech/Zo-Bro-23/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white"/></a>
 </p>
 
+## 📊 Github stats
+
+### 🔥 Streak stats
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zo-Bro-23&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="Zo-Bro-23's github stats" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Zo-Bro-23's streak" src="https://streak-stats.demolab.com/?user=Zo-Bro-23&theme=onedark&hide_border=true"/>
+  </a>
+</p>
+
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+### 💻 GitHub Profile Stats
+<p align="center">
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zo-Bro-23&layout=compact&hide_border=true&theme=tokyonight" /></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ZoBro23&layout=compact&hide_border=true&theme=tokyonight" /></a>
+</p>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Zo-Bro-23's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Zo-Bro-23&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 ## 📘 My top open source projects
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
@@ -52,41 +75,6 @@
 <p align="left">
   <a href="https://github.com/Zo-Bro-23?tab=repositories&type=fork"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
-
-## 📊 Github stats
-
-### 🔥 Streak stats
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zo-Bro-23&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="Zo-Bro-23's github stats" /></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=Zo-Bro-23&theme=onedark&hide_border=true"/>
-  </a>
-</p>
-
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-### 💻 GitHub Profile Stats
-<p align="center">
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zo-Bro-23&layout=compact&hide_border=true&theme=tokyonight" /></a>
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ZoBro23&layout=compact&hide_border=true&theme=tokyonight" /></a>
-</p>
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  #### ⚡ Recent GitHub Activity</summary>
-    
-<!--START_SECTION:activity-->
-
-1. 💪 Opened PR [#42](https://github.com/DenverCoder1/unicode-formatter/pull/42) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-2. 🎉 Merged PR [#346](https://github.com/DenverCoder1/github-readme-streak-stats/pull/346) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 💪 Opened PR [#346](https://github.com/DenverCoder1/github-readme-streak-stats/pull/346) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 💪 Opened PR [#18](https://github.com/nextcord/nextcord-ext-ipc/pull/18) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-5. 💪 Opened PR [#53](https://github.com/nextcord/nextcord-ext-menus/pull/53) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-    <!--END_SECTION:activity-->
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Zo-Bro-23's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Zo-Bro-23&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ## 🛠️ My favorite tools
 
