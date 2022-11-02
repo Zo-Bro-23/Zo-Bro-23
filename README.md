@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
-  <a href="https://github.com/shenuja/himandher"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=shenuja&repo=himandher&theme=great-gatsby alt="himandher"></a>
+  <a href="https://github.com/shenuja/himandher"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=shenuja&repo=himandher&theme=great-gatsby" alt="himandher"></a>
 </p>
 
 <p align="left">
