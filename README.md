@@ -58,9 +58,9 @@
 ### 🔥 Streak stats
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="#"><img width="75%" align="center" src="https://github-readme-stats.vercel.app/api?username=Zo-Bro-23&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="Zo-Bro-23's github stats" /></a>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zo-Bro-23&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="Zo-Bro-23's github stats" /></a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="75%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=Zo-Bro-23&theme=onedark&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=Zo-Bro-23&theme=onedark&hide_border=true"/>
   </a>
 </p>
 
@@ -68,8 +68,8 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ### 💻 GitHub Profile Stats
 <p align="center">
-<a href="#"><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zo-Bro-23&layout=compact&hide_border=true&theme=tokyonight" /></a>
-<a href="#"><img width="75%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ZoBro23&layout=compact&hide_border=true&theme=tokyonight" /></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zo-Bro-23&layout=compact&hide_border=true&theme=tokyonight" /></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ZoBro23&layout=compact&hide_border=true&theme=tokyonight" /></a>
 </p>
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
