@@ -29,6 +29,8 @@
     <img alt="views" title="GitHub profile views" src="https://view-count-badge.zohan.tech/Zo-Bro-23/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white"/></a>
 </p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/659610243990290524)](https://discord.com/users/659610243990290524)
+
 ## 📊 Github stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
