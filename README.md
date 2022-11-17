@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-<img title="Discord Presence" src="https://lanyard.cnrad.dev/api/659610243990290524" href="https://discord.com/users/659610243990290524">
+<img title="Discord Presence" src="https://discord-readme-badge.vercel.app/api?id=659610243990290524" href="https://discord.com/users/659610243990290524">
 </p>
 
 ## 📊 Github stats
