@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/659610243990290524)](https://discord.com/users/659610243990290524)
+![Discord Presence](https://lanyard.cnrad.dev/api/659610243990290524)](https://discord.com/users/659610243990290524)
 </p>
 
 ## 📊 Github stats
