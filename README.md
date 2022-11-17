@@ -72,11 +72,11 @@
 
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
-  <a href="https://github.com/shenuja/himandher"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=shenuja&repo=himandher&theme=great-gatsby" alt="himandher"></a>
+  <a href="https://github.com/shenuja/himandher"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=shenuja&repo=himandher&theme=great-gatsby"></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/Zyplos/discord-readme-badge"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zyplos&repo=discord-readme-badge&theme=great-gatsby" alt="discord-readme-badge"></a>
+  <a href="https://github.com/Zyplos/discord-readme-badge"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zyplos&repo=discord-readme-badge&theme=great-gatsby"></a>
 </p>
 
 <p align="left">
