@@ -10,10 +10,30 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UChES3rBwY33QvxABD2O4bpw"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@zobro23"><img width="32px" alt="Medium" title="Medium" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://profile.codersrank.io/user/ZoBro23" target="_blank" rel="nofollow">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/codersrank.png" alt="Codersrank" width="34" align="center">
+   </a>
+   <a href="https://medium.com/@zobro23" target="_blank" rel="nofollow">
+      <img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="32" align="center">
+   </a>
+   <a href="https://discord.com/users/290131759159443457" target="_blank" rel="nofollow">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="32" align="center">
+   </a>
+   <a href="mailto:zohan.subhash@gmail.com" target="_blank" rel="nofollow">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="32" align="center">
+   </a>
+   <a href="https://www.youtube.com/channel/UChES3rBwY33QvxABD2O4bpw" target="_blank" rel="nofollow">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="32" align="center">
+   </a>
+   <a href="https://steamcommunity.com/id/zo-bro-23/" target="_blank" rel="nofollow">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/steam.svg" alt="Steam" width="32" align="center">
+   </a>
+   <a href="https://open.spotify.com/user/zohan_subhash" target="_blank" rel="nofollow">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Spotify" width="32" align="center">
+   </a>
+   <a href="https://wakatime.com/@Zo-Bro-23" target="_blank" rel="nofollow">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/wakatime.svg" alt="Wakatime" width="32" align="center">
+   </a>
 </p>
 
 <br/>
