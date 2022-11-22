@@ -33,7 +33,9 @@
 <img title="Discord Presence" src="https://discord-readme-badge.zohan.tech/api?id=659610243990290524" href="https://discord.com/users/659610243990290524">
 </p>
 
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=ZoBro23)](https://www.last.fm/user/ZoBro23)
+<p align="center">
+<img title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23" href="https://www.last.fm/user/ZoBro23">
+</p>
 
 ## 📊 Github stats
 
