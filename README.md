@@ -58,8 +58,12 @@
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Zo-Bro-23's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Zo-Bro-23&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<a href="https://github.com/Zo-Bro-23" align="center">
-  <img alt="GitHub Snake" src="https://github.com/Zo-Bro-23/Zo-Bro-23/raw/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+<a href="https://github.com/Zo-Bro-23#gh-light-mode-only" align="center">
+  <img alt="GitHub Snake Light" src="https://github.com/Zo-Bro-23/Zo-Bro-23/raw/snake/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</a>
+
+<a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
+  <img alt="GitHub Snake Dark" src="https://github.com/Zo-Bro-23/Zo-Bro-23/raw/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </a>
 
 ## 📘 My top open source projects
