@@ -35,7 +35,7 @@
 </a>
 </p>
 
-<p align="center">
+<p align="center" style="vertical-align: middle;">
 <a href="https://www.last.fm/user/ZoBro23">
 <img title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23">
 </a>
