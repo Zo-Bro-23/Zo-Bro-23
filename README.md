@@ -48,7 +48,7 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zo-Bro-23&theme=2077" alt="Zo-Bro-23's github stats" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zo-Bro-23&theme=tokyonight" alt="Zo-Bro-23's github stats" /></a>
 </p>
 
 <p align="center">
