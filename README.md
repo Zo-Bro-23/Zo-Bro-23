@@ -35,8 +35,8 @@
 </a>
 </p>
 
-<p align="center" style="vertical-align: middle;">
-<a href="https://www.last.fm/user/ZoBro23">
+<p align="center">
+<a href="https://www.last.fm/user/ZoBro23" style="text-decoration: none;">
 <img title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23">
 </a>
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
