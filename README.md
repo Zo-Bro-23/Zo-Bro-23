@@ -30,11 +30,15 @@
 </p>
 
 <p align="center">
-<img title="Discord Presence" src="https://discord-readme-badge.zohan.tech/api?id=659610243990290524" href="https://discord.com/users/659610243990290524">
+<a href="https://discord.com/users/659610243990290524">
+<img title="Discord Presence" src="https://discord-readme-badge.zohan.tech/api?id=659610243990290524">
+</a>
 </p>
 
 <p align="center">
-<img title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23" href="https://www.last.fm/user/ZoBro23">
+<a href="https://www.last.fm/user/ZoBro23">
+<img title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23">
+</a>
 </p>
 
 ## 📊 Github stats
