@@ -81,8 +81,8 @@
   <img alt="GitHub Snake Dark" src="https://github.com/Zo-Bro-23/Zo-Bro-23/raw/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </a>
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 ## 📘 My top open source projects
 
