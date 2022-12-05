@@ -107,6 +107,10 @@
 </p>
 
 <p align="left">
+  <a href="https://github.com/th-ch/youtube-music"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zyplos&repo=discord-readme-badge&theme=great-gatsby"></a>
+</p>
+
+<p align="left">
   <a href="https://github.com/Zo-Bro-23?tab=repositories&type=fork"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
