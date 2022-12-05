@@ -107,7 +107,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/th-ch/youtube-music"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zyplos&repo=discord-readme-badge&theme=great-gatsby"></a>
+  <a href="https://github.com/th-ch/youtube-music"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=th-ch&repo=youtube-music&theme=great-gatsby"></a>
 </p>
 
 <p align="left">
