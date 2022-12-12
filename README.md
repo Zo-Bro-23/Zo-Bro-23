@@ -44,7 +44,7 @@
 
 <p align="center">
 <a href="https://www.last.fm/user/ZoBro23">
-<img title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23">
+  <img title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23">
 </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
