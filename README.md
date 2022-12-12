@@ -16,6 +16,13 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br/>
+<p align="center">
+  <a href=""><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/pfBS0xC.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://medium.com/@zobro23"><img width="32px" alt="Medium" title="Medium" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+<br/>
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
