@@ -44,10 +44,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.last.fm/user/ZoBro23">
-  <img title="My Last.FM" width="" alt="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23"/>
-</a>
-  <a href="https://last.fm/user/ZoBro23"><img width="" alt="My Last.FM" title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23"/></a>
+  <a href="https://www.last.fm/user/ZoBro23"><img width="" alt="My Last.FM" title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?theme=dracula">
