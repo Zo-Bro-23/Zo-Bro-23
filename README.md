@@ -16,7 +16,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br/>
-<a href="https://www.youtube.com/channel/UChES3rBwY33QvxABD2O4bpw"><img width="600px" alt="Youtube" title="Youtube" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23"/></a>
+
 <p align="center">
   <a href=""><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/pfBS0xC.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -47,6 +47,7 @@
 <a href="https://www.last.fm/user/ZoBro23">
   <img title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23">
 </a>
+  <a href="https://last.fm/user/ZoBro23"><img width="600px" alt="My Last.FM" title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?theme=dracula">
