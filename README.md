@@ -85,7 +85,7 @@
 </a>
 
 <a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
-  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </a>
 
 ## 📘 My top open source projects
