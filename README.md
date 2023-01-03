@@ -10,9 +10,9 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href=""><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/pfBS0xC.png"/></a>
+  <a href="https://linkedin.com/in/zobro23"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@zobro23"><img width="32px" alt="Medium" title="Medium" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://medium.com/@zobro23"><img width="32px" title="Medium" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br/>
