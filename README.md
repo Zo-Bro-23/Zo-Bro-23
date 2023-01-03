@@ -10,9 +10,17 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UChES3rBwY33QvxABD2O4bpw"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://artist.link/zobro23"><img width="32px" title="SongLink" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@zobro23"><img width="32px" alt="Medium" title="Medium" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://open.spotify.com/artist/2sK8v6VqxrapoNfrnFGa5r"><img width="32px" title="Spotify" src="https://i.imgur.com/UTw76o4.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://music.apple.com/us/artist/zobro23/1654967789"><img width="32px" title="Apple Music" src="https://i.imgur.com/JvX3OIp.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://music.amazon.in/artists/B0BMM2MHZ2/zobro23"><img width="32px" title="Amazon Music" src="https://i.imgur.com/HFzqj4h.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://youtube.com/@zobro23"><img width="32px" title="YouTube" src="https://i.imgur.com/oPN1zuZ.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://soundcloud.com/zobro23"><img width="32px" title="SoundCloud" src="https://i.imgur.com/jAIlfwk.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br/>
