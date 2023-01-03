@@ -12,7 +12,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/zobro23"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  https://medium.com/@zobro23
+  <a href="  https://medium.com/@zobro23"><img width="32px" title="Medium" src="https://i.imgur.com/uCMQwpp.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://fiverr.com/zobro23"><img width="32px" title="Fiverr" src="https://i.imgur.com/OyA8gsq.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
