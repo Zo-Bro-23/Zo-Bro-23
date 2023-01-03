@@ -94,26 +94,12 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/Zo-Bro-23/zoauth"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zo-Bro-23&repo=zoauth&theme=great-gatsby"></a>
-</p>
-<p align="left">
   <a href="https://github.com/Zo-Bro-23/c29"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zo-Bro-23&repo=c29&theme=great-gatsby"></a>
-</p>
-<p align="left">
   <a href="https://github.com/Zo-Bro-23/obs-voicemeeter-integration"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zo-Bro-23&repo=obs-voicemeeter-integration&theme=great-gatsby"></a>
-</p>
-<p align="left">
   <a href="https://github.com/Zo-Bro-23/batch-file-bot"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zo-Bro-23&repo=batch-file-bot&theme=great-gatsby"></a>
-</p>
-<p align="left">
   <a href="https://github.com/Zo-Bro-23/zoauth-demoApp"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zo-Bro-23&repo=zoauth-demoApp&theme=great-gatsby"></a>
-</p>
-<p align="left">
   <a href="https://github.com/Zo-Bro-23/population-simulation-web"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zo-Bro-23&repo=population-simulation-web&theme=great-gatsby"></a>
-</p>
-<p align="left">
   <a href="https://github.com/Zo-Bro-23/automatic-git-commits"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zo-Bro-23&repo=automatic-git-commits&theme=great-gatsby"></a>
-</p>
-<p align="left">
   <a href="https://github.com/Zo-Bro-23/zms"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zo-Bro-23&repo=zms&theme=great-gatsby"></a>
 </p>
 
