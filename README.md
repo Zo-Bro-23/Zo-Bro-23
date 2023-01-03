@@ -78,7 +78,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zo-Bro-23&layout=compact&hide_border=true&theme=tokyonight" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ZoBro23&layout=compact&hide_border=true&theme=tokyonight" /></a>
+<a href="https://wakatime.com/@ZoBro23"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ZoBro23&layout=compact&hide_border=true&theme=tokyonight" /></a>
 </p>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
