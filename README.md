@@ -16,7 +16,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://fiverr.com/zobro23"><img width="32px" title="Fiverr" src="https://i.imgur.com/OyA8gsq.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.thingiverse.com/zobro23/"><img width="32px" title="Thingiverse" src="https://i.imgur.com/Y2NWo1z.png"></a>
+  <a href="https://www.thingiverse.com/zobro23/"><img width="32px" title="Thingiverse" src="https://i.imgur.com/sjvRVzs.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br/>
