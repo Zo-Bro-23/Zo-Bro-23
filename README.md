@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zo-Bro-23&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="Zo-Bro-23's github stats" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=Zo-Bro-23&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="Zo-Bro-23's github stats" /></a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Zo-Bro-23's streak" src="https://streak-stats.demolab.com/?user=Zo-Bro-23&theme=onedark&hide_border=true"/>
   </a>
@@ -83,8 +83,8 @@
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zo-Bro-23&layout=compact&hide_border=true&theme=tokyonight" /></a>
-<a href="https://wakatime.com/@ZoBro23"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ZoBro23&layout=compact&hide_border=true&theme=tokyonight" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Zo-Bro-23&layout=compact&hide_border=true&theme=tokyonight" /></a>
+<a href="https://wakatime.com/@ZoBro23"><img align="center" src="https://github-readme-stats.zohan.tech/api/wakatime/?username=ZoBro23&layout=compact&hide_border=true&theme=tokyonight" /></a>
 </p>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
@@ -108,14 +108,14 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/Zo-Bro-23/zoauth"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zo-Bro-23&repo=zoauth&theme=great-gatsby"></a>
-  <a href="https://github.com/Zo-Bro-23/c29"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zo-Bro-23&repo=c29&theme=great-gatsby"></a>
-  <a href="https://github.com/Zo-Bro-23/obs-voicemeeter-integration"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zo-Bro-23&repo=obs-voicemeeter-integration&theme=great-gatsby"></a>
-  <a href="https://github.com/Zo-Bro-23/batch-file-bot"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zo-Bro-23&repo=batch-file-bot&theme=great-gatsby"></a>
-  <a href="https://github.com/Zo-Bro-23/zoauth-demoApp"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zo-Bro-23&repo=zoauth-demoApp&theme=great-gatsby"></a>
-  <a href="https://github.com/Zo-Bro-23/population-simulation-web"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zo-Bro-23&repo=population-simulation-web&theme=great-gatsby"></a>
-  <a href="https://github.com/Zo-Bro-23/automatic-git-commits"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zo-Bro-23&repo=automatic-git-commits&theme=great-gatsby"></a>
-  <a href="https://github.com/Zo-Bro-23/zms"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zo-Bro-23&repo=zms&theme=great-gatsby"></a>
+  <a href="https://github.com/Zo-Bro-23/zoauth"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=zoauth&theme=great-gatsby"></a>
+  <a href="https://github.com/Zo-Bro-23/c29"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=c29&theme=great-gatsby"></a>
+  <a href="https://github.com/Zo-Bro-23/obs-voicemeeter-integration"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=obs-voicemeeter-integration&theme=great-gatsby"></a>
+  <a href="https://github.com/Zo-Bro-23/batch-file-bot"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=batch-file-bot&theme=great-gatsby"></a>
+  <a href="https://github.com/Zo-Bro-23/zoauth-demoApp"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=zoauth-demoApp&theme=great-gatsby"></a>
+  <a href="https://github.com/Zo-Bro-23/population-simulation-web"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=population-simulation-web&theme=great-gatsby"></a>
+  <a href="https://github.com/Zo-Bro-23/automatic-git-commits"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=automatic-git-commits&theme=great-gatsby"></a>
+  <a href="https://github.com/Zo-Bro-23/zms"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=zms&theme=great-gatsby"></a>
 </p>
 
 <p align="left">
@@ -126,9 +126,9 @@
 
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
-  <a href="https://github.com/shenuja/himandher"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=shenuja&repo=himandher&theme=great-gatsby"></a>
-  <a href="https://github.com/Zyplos/discord-readme-badge"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Zyplos&repo=discord-readme-badge&theme=great-gatsby"></a>
-  <a href="https://github.com/th-ch/youtube-music"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=th-ch&repo=youtube-music&theme=great-gatsby"></a>
+  <a href="https://github.com/shenuja/himandher"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=shenuja&repo=himandher&theme=great-gatsby"></a>
+  <a href="https://github.com/Zyplos/discord-readme-badge"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zyplos&repo=discord-readme-badge&theme=great-gatsby"></a>
+  <a href="https://github.com/th-ch/youtube-music"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=th-ch&repo=youtube-music&theme=great-gatsby"></a>
 </p>
 
 <p align="left">
