@@ -126,9 +126,10 @@
 
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
-  <a href="https://github.com/shenuja/himandher"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=shenuja&repo=himandher&theme=great-gatsby"></a>
-  <a href="https://github.com/Zyplos/discord-readme-badge"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zyplos&repo=discord-readme-badge&theme=great-gatsby"></a>
-  <a href="https://github.com/th-ch/youtube-music"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=th-ch&repo=youtube-music&theme=great-gatsby"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=great-gatsby&show_owner=true"></a>
+  <a href="https://github.com/shenuja/himandher"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=shenuja&repo=himandher&theme=great-gatsby&show_owner=true"></a>
+  <a href="https://github.com/Zyplos/discord-readme-badge"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zyplos&repo=discord-readme-badge&theme=great-gatsby&show_owner=true"></a>
+  <a href="https://github.com/th-ch/youtube-music"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=th-ch&repo=youtube-music&theme=great-gatsby&show_owner=true"></a>
 </p>
 
 <p align="left">
